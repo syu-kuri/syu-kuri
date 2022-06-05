@@ -1,7 +1,7 @@
 ## About Me
 Name ： syu-kuri<br>
 Age ： 19 years old<br>
-region ： Japan<br>
+Region ： Japan<br>
 
 
 ## Profile
