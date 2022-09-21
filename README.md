@@ -3,7 +3,7 @@ My name is syu-kuri and I use this name mainly as my social networking username.
 
 <p align="center">
   <a href="https://twitter.com/syukur1ch"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/syukur1ch?label=Follow&style=social"></a>
-  <a href="https://twitch.tv/syukur1"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/syukur1?style=social"></a>
+  <a href="https://twitch.tv/syukur1"><img alt="Twitch" src="https://img.shields.io/twitch/status/syukur1?style=social"></a>
   <a href="http://qiita.com/syu-kuri"><img alt="Qiita" src="https://qiita-badge.apiapi.app/s/syu-kuri/posts.svg"></a>
   <a href="http://qiita.com/syu-kuri"><img alt="Qiita" src="https://qiita-badge.apiapi.app/s/syu-kuri/contributions.svg"></a>
 </p>
