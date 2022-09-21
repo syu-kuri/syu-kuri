@@ -18,6 +18,8 @@
   <a href="https://qiita.com/syu-kuri">Qiita</a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=syu-kuri&color=blueviolet)
+
 ---
 
 ### My products
