@@ -26,7 +26,7 @@
 ---
 
 ### My products
-**Dicord bot**
+**Discord bot**
 * [Splatoon3 bot](https://github.com/syu-kuri/Spla3bot)
 
 ---
