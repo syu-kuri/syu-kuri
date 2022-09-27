@@ -8,6 +8,9 @@
 
 <p>My name is syu-kuri and I use this name mainly as my social networking username. I love computers and programming, but I am still a beginner.</p>
 
+[![syukuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu-kuri&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu-kuri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 <p align="center">My contact</p>
 <p align="center">
