@@ -8,7 +8,7 @@
 
 <p>My name is syu-kuri and I use this name mainly as my social networking username. I love computers and programming, but I am still a beginner.</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=syu-kuri&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=syu-kuri&theme=default)](https://git.io/streak-stats)
 [![syukuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu-kuri&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu-kuri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
