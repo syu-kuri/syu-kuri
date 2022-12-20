@@ -10,6 +10,7 @@
 
 [![syukuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu-kuri&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu-kuri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=syu-kuri&theme=dark)](https://git.io/streak-stats)
 
 ---
 <p align="center">My contact</p>
