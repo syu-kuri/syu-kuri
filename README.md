@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://discordapp.com/users/426217697592999936">Discord</a>
   ・
-  <a href="https://twitter.com/syukur1ch">Twitter</a>
+  <a href="https://twitter.com/syukuri_develop">Twitter</a>
   ・
   <a href="https://qiita.com/syu-kuri">Qiita</a>
 </p>
