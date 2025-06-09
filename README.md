@@ -1,52 +1,45 @@
-<h1 align="center">Hi, I'm syu-kuri!!</h1>
-<p align="center">
-  <a href="https://twitter.com/syukuri_develop"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/syukur1ch?label=Follow&style=social"></a>
-<!--   <a href="https://twitch.tv/syukur1"><img alt="Twitch" src="https://img.shields.io/twitch/status/syukur1?style=social"></a> -->
-  <a href="http://qiita.com/syu-kuri"><img alt="Qiita" src="https://qiita-badge.apiapi.app/s/syu-kuri/posts.svg"></a>
-  <a href="http://qiita.com/syu-kuri"><img alt="Qiita" src="https://qiita-badge.apiapi.app/s/syu-kuri/contributions.svg"></a>
-</p>
-
-<p>My name is syu-kuri and I use this name mainly as my social networking username. I love computers and programming, but I am still a beginner.</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=syu-kuri&theme=default)](https://git.io/streak-stats)
-[![syukuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu-kuri&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu-kuri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<p align="center">My contact</p>
-<p align="center">
-  <a href="https://discordapp.com/users/426217697592999936">Discord</a>
-  ・
-  <a href="https://twitter.com/syukuri_develop">Twitter</a>
-  ・
-  <a href="https://qiita.com/syu-kuri">Qiita</a>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=syu-kuri&color=blueviolet)
 
----
+# My Profile
+* Name: syu-kuri
+* Gender: He/Him
+* Location: Tokyo, Japan
+* Hobbies: Programming, Game, Pokemon Go, Travel
+* Links
+  * [X(Twitter)](https://twitter.com/syukur1ch)
+  * [Qiita](https://qiita.com/syu-kuri)
+* Contacts
+  * X(Twitter): [@syukur1ch](https://twitter.com/syukur1ch)
 
-### My products
-**Discord bot**
-* [Splatoon3 bot](https://github.com/syu-kuri/Spla3bot)
 
----
-### Things I am learning
+## GitHub Stats
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=syu-kuri&count_private=true&show_icons=true&hide_title=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syu-kuri&layout=compact" />
+  </a>
+</div>
 
-<details>
-<summary>Language</summary>
-  HTML</br>
-  CSS</br>
-  JavaScript</br>
-  Python</br>
-  PHP</br>
-</details>
 
-<details>
-<summary>Web Frame Work</summary>
-  Flask</br>
-  Laravel</br>
-  React</br>
-</details>
+## Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,py,ts,)](https://skillicons.dev)
 
----
+## Library & Framework
+[![Library & Framework](https://skillicons.dev/icons?i=bootstrap,django,fastapi,flask,jquery,nextjs,tailwind)](https://skillicons.dev)
+
+## Platform
+[![Platforms](https://skillicons.dev/icons?i=aws,cloudflare,github)](https://skillicons.dev)
+
+## Tools
+[![Tools](https://skillicons.dev/icons?i=git,npm,vite)](https://skillicons.dev)
+
+## Softwares
+[![Softwares](https://skillicons.dev/icons?i=debian,docker,linux,mysql,postgres,ubuntu,windows)](https://skillicons.dev)
+
+## Applications
+[![Applications](https://skillicons.dev/icons?i=discord,postman,pycharm,vscode,)](https://skillicons.dev)
+
+## My Products
+* [Splatoon3 Discord bot](https://github.com/syu-kuri/Spla3bot)
